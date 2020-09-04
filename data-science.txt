@@ -1,0 +1,5 @@
+Kafka
+Mongo-DB
+Docker
+Learn JAVA
+Learn Data Structure & Algorithm
